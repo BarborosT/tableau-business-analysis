@@ -7,9 +7,9 @@ Tableau is a visual data analytics and business intelligence platform. It is a p
 
 # Example Visualization
 
-[Example1](https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing)
-[Example1](https://drive.google.com/file/d/1r3UxIt0Z9U0SQmlXZantZXau9o-g3Vj1/view?usp=sharing)
-[Example1](https://drive.google.com/file/d/1cvTF8DeSxZVXgjNT-XfqNr_2pEGE9k0-/view?usp=sharing)
+[Example1](https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing) <br/>
+[Example2](https://drive.google.com/file/d/1r3UxIt0Z9U0SQmlXZantZXau9o-g3Vj1/view?usp=sharing) <br/>
+[Example3](https://drive.google.com/file/d/1cvTF8DeSxZVXgjNT-XfqNr_2pEGE9k0-/view?usp=sharing) <br/>
 
 # Results
 Demonstrates insights. Data from various data sources has been analyzed using Tableau and presented with effective visualizations.
