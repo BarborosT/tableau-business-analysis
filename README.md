@@ -7,7 +7,7 @@ Tableau is a visual data analytics and business intelligence platform. It is a p
 
 # Example Visualization
 
-<img src="[markdownmonstericon.png](https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing)"
+<img src="https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
