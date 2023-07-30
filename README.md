@@ -7,25 +7,35 @@ Tableau is a visual data analytics and business intelligence platform. It is a p
 
 # Example Visualization
 
-<img src="https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
+[Example1](https://drive.google.com/file/d/1wuEPnwgHVZhSbw4_hF_bAFE1p7HL7cYW/view?usp=sharing)
+[Example1](https://drive.google.com/file/d/1r3UxIt0Z9U0SQmlXZantZXau9o-g3Vj1/view?usp=sharing)
+[Example1](https://drive.google.com/file/d/1cvTF8DeSxZVXgjNT-XfqNr_2pEGE9k0-/view?usp=sharing)
 
 # Results
-Based on the results of the data analysis, the following important conclusions regarding XYZ were reached:
+Demonstrates insights. Data from various data sources has been analyzed using Tableau and presented with effective visualizations.
 
-Result 1
-Result 2
-Result 3
+The main objectives of the report are as follows:
 
-# Contribution
-If you would like to contribute to this project, please let us know by going to the "Issues" tab. You can also contribute to the project with "Pull Requests".
+### Data Exploration and Analysis: 
+Data obtained from data sources were analyzed in detail using visualizations and analytical tools. The data was cleaned and organized and made ready for analysis.
+
+### Key Insights: 
+Analyzes revealed key business insights and trends. Key findings in key areas such as customer behavior, sales performance and product categories are supported by visualizations.
+
+### Creating Stories: 
+Stories are created by combining visualizations. These stories enabled data to be presented in a more understandable way and communicated effectively to management and decision makers.
+
+### Decision Support: 
+The report contributed to making more informed and data-driven decisions regarding business strategies. Business owners, managers and other relevant stakeholders have identified action plans and areas for improvement based on the analysis results.
+
+### Sharing and Accessibility: 
+The report is made accessible to team members and relevant stakeholders. The report was made up-to-date and shareable by sharing via Tableau Server.
 
 # Licence
 This project is licensed under the MIT license. Review the LICENSE file.
 
 # Communication
-If you have any questions or feedback regarding the project, you can contact me at email@example.com.
+If you have any questions or feedback regarding the project, you can contact me at barborostasdemir@gmail.com.
 
 # Thanks
+BARBOROS TASDEMİR
